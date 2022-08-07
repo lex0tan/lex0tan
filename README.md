@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <img src="spot-playing.vercel.app?theme=dark&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
+  <img src="spot-playing.vercel.app?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
