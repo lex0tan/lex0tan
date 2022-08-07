@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-![GitHub Snake dark](https://github.com/lex0tan/lex0tan/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](https://github.com/lex0tan/lex0tan/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ###
 
