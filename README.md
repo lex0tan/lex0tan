@@ -4,6 +4,6 @@
 
 ###
 
-[![Spotify](spot-lex0tan.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](spot-lex0tan.vercel.app/api/spotify)](https://open.spotify.com/user/ascandura0)
 
 ###
