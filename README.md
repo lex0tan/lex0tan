@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img href="https://github.com/lex0tan/lex0tan/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+![snake gif](https://github.com/lex0tan/lex0tan/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
