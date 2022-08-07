@@ -4,8 +4,6 @@
 
 ###
 
-<div align="left">
-  <img src="spot-playing.vercel.app?" alt="Widget with the current Spotify song"  />
-</div>
+[![Spotify](spot-lex0tan.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ###
