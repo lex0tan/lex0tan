@@ -34,12 +34,4 @@
 
 <br clear="both">
 
-![GitHub Snake dark](https://github.com/lex0tan/lex0tan/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=lex0tan&theme=github_dark" alt="Layout with last medium posts"  />
-</div>
-
-###
+![GitHub Snake dark](https://github.com/lex0tan/lex0tan/blob/output/github-contribution-grid-snake.svg)
